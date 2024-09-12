@@ -735,7 +735,7 @@ sns.heatmap(corr_numeric.to_frame(),annot=True)
 
 
     
-![correlation](img/correlation.png)
+![correlation](img/Spectrum.png)
     
 
 
