@@ -734,13 +734,6 @@ sns.heatmap(corr_numeric.to_frame(),annot=True)
 ```
 
 
-
-
-    <Axes: >
-
-
-
-
     
 ![correlation](img/correlation.png)
     
@@ -1396,7 +1389,7 @@ forest_reg.fit(X, y)
 
 __Support Vector Machines__ work by creating measuring distances from boundaries between instances in the data. Ideally using the crude diagram below (I am not an artist), the slack should be optimally reduced , but with the tradeoff of providing the smallest distance for Epsilon. The idea is that a 'tighter' epsilon will provide a more precise model; however, by also considering slack we essentially allow for more generalizability for real-world data that may not fit so tightly as the training data does within epsilon. 
 
-![title](img/svr.png)
+![title](img/SVR.png)
 
 
 ```python
