@@ -582,7 +582,7 @@ plt.show()
 
 
     
-![png](attribute_histogram_plots.png)
+![Historgram](img/attribute_histogram_plots.png)
     
 
 
@@ -742,7 +742,7 @@ sns.heatmap(corr_numeric.to_frame(),annot=True)
 
 
     
-![png](output_56_1.png)
+![png](img/correlation.png)
     
 
 
