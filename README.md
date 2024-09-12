@@ -742,7 +742,7 @@ sns.heatmap(corr_numeric.to_frame(),annot=True)
 
 
     
-![png](img/correlation.png)
+![correlation](img/correlation.png)
     
 
 
