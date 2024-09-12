@@ -1,4 +1,4 @@
-![title](img/picture.png)
+![title](img/stock.png)
 
 # Predicting Length of Stays for ER Visits Project
 
@@ -582,7 +582,7 @@ plt.show()
 
 
     
-![png](output_29_1.png)
+![png](attribute_histogram_plots.png)
     
 
 
